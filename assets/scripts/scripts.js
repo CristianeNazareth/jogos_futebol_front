@@ -50,3 +50,4 @@ async function consultar_api() {
 
 // executa funcoes
 consultar_api();
+
